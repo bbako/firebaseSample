@@ -1,0 +1,24 @@
+{
+  "name": "startfire",
+  "version": "1.0.0",
+  "description": "JavaScript quickstarts for Firebase.",
+  "repository": "git+https://github.com/bbako/firebaseSample.git",
+  "author": "Hoyeon",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/firebase/quickstart-js/issues"
+  },
+  "homepage": "https://github.com/firebase/quickstart-js#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-plugin-promise": "^4.2.1",
+    "lerna": "^3.15.0"
+  },
+  "scripts": {
+    "test": "scripts/test.sh"
+  },
+  "main": "index.js",
+  "keywords": [
+    "start"
+  ]
+}
